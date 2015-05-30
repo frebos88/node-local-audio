@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.12.4",
+    "fluent-ffmpeg": "^2.0.1",
+    "lame": "^1.2.2",
+    "speaker": "^0.2.5",
+    "ytdl-core": "^0.5.1"
+  },
+  "devDependencies": {
+    "util": "^0.10.3"
+  }
+}
