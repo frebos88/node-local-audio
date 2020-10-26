@@ -1,6 +1,6 @@
 var ytdl = require('ytdl-core');
 var ffmpeg = require('fluent-ffmpeg');
-var lame = require('lame');
+var lame = require('@suldashi/lame');
 var Speaker = require('speaker');
 
 function Player() {
